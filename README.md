@@ -422,5 +422,4 @@ MIT License - see LICENSE file for details.
 
 - Documentation: https://atoship.com/docs
 - API Reference: https://atoship.com/docs/api-reference
-- NuGet Package: https://www.nuget.org/packages/Atoship.SDK
 - Support: support@atoship.com
