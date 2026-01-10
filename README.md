@@ -420,7 +420,7 @@ MIT License - see LICENSE file for details.
 
 ## Support
 
-- Documentation: https://docs.atoship.com
+- Documentation: https://atoship.com/developers
 - API Reference: https://api.atoship.com/docs
 - NuGet Package: https://www.nuget.org/packages/Atoship.SDK
 - Support: support@atoship.com
